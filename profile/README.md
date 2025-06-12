@@ -64,7 +64,7 @@ Desde la creación y promoción de eventos, la venta de tickets con pasarela de 
 | Nombre                      | Rol Principal          | GitHub                               |
 |-----------------------------|-----------------------|--------------------------------------|
 | Alejandro Martín Sáez       | Fundador & Dev Lead   | [@alejandromartinsaez](https://github.com/alejandromartinsaez) |
-| Samuel                      | Cofundador & Backend  | [@samucraft346](https://github.com/samucraft346)               |
+| Samuel                      | Cofundador & Backend  | [@samucraft346](https://github.com/SamuelBarant)               |
 
 ---
 
